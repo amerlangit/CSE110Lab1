@@ -36,6 +36,6 @@ Task List:
 [X] Walk Dog
 [X] Celebrate Bday! :tada:
 
-![Here's an image of a turtle :)](https://upload.wikimedia.org/wikipedia/commons/f/f4/Florida_Box_Turtle_Digon3_re-edited.jpg)
+![Here's an image of a turtle! :)](https://upload.wikimedia.org/wikipedia/commons/f/f4/Florida_Box_Turtle_Digon3_re-edited.jpg)
 
 
