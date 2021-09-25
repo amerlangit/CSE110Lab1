@@ -14,8 +14,9 @@ return 0;
 
 External Link:
 Here is my github [Alanna's Github](https://github.com/amerlangit).
+
 Section Link:
-[Contribution guidelines for this project](docs/CONTRIBUTING.md)
+[[Contribution guidelines for this project](docs/CONTRIBUTING.md)](https://amerlangit.github.io/CSE110Lab1/)
 
 Unordered list of languages:
 - JavaScript
@@ -34,7 +35,9 @@ Ordered List from most to least favorite:
 Task List:
 [ ] Change oil
 [X] Walk Dog
-[X] Celebrate Bday! :tada:
+[X] Celebrate Bday
+[ ] Fly
+[X] Homework
 
 ![Here's an image of a turtle :)](https://upload.wikimedia.org/wikipedia/commons/f/f4/Florida_Box_Turtle_Digon3_re-edited.jpg)
 
